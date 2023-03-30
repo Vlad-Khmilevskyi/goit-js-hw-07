@@ -26,5 +26,3 @@ function createCardsMarkup(elements) {
 var lightbox = new SimpleLightbox('.gallery a', {
     captionsData: 'alt', captionDelay: 250
 });
-
-// var lightbox =     captionPosition: 'bottom',
